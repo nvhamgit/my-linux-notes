@@ -29,13 +29,13 @@
 
 ---
 ## Моё железо:
-CPU: Intel Core i3-10100F (4C/8T @ 4.30 GHz)
+**CPU:** Intel Core i3-10100F (4C/8T @ 4.30 GHz)
 
-GPU: NVIDIA GeForce GTX 1050 Ti (4GB GDDR5 / Low Profile)
+**GPU:** NVIDIA GeForce GTX 1050 Ti (4GB GDDR5 / Low Profile)
 
-MB: ASUS PRIME H510M-K
+**MB:** ASUS PRIME H510M-K
 
-RAM: 16 GB DDR4 (2 x 8 GB)
+**RAM:** 16 GB DDR4 (2 x 8 GB)
 
 ---
 
@@ -73,12 +73,12 @@ In plans:
 
 - [ ] add a section for NixOS.
 
-My hardware:
+## My hardware:
 
-CPU: Intel Core i3-10100F (4C/8T @ 4.30 GHz)
+**CPU:** Intel Core i3-10100F (4C/8T @ 4.30 GHz)
 
-GPU: NVIDIA GeForce GTX 1050 Ti (4GB GDDR5 / Low Profile)
+**GPU:** NVIDIA GeForce GTX 1050 Ti (4GB GDDR5 / Low Profile)
 
-MB: ASUS PRIME H510M-K
+**MB:** ASUS PRIME H510M-K
 
-RAM: 16 GB DDR4 (2 x 8 GB)
+**RAM:** 16 GB DDR4 (2 x 8 GB)
