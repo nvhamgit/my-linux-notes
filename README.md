@@ -1,3 +1,5 @@
+### ВНИМАНИЕ, САМ МАНУАЛ ЕЩЕ НЕ ЗАВЕРШЕН
+---
 # Linux Notes by nvham
 Могу назвать это своим личным "недо-дневником" в котором я рассказываю как Я устанавливал и настраивал дистро Linux'а и как вам это можно будет сделать. Тут не будет всяких мануалов с википедии где рассказывают все слишком заумно и всякими гиковскими фразочками, все что я расписывал, сделано на моем личном опыте. (и мучениях)
 
@@ -39,6 +41,8 @@
 
 ---
 
+### WARNING, THE MANUAL IS ISN'T FINISHED
+---
 ## Linux Notes by nvham
 
 I can call this my personal "pseudo-diary" in which I talk about how I installed and configured Linux distros and how you can do it too. There won't be any manuals from Wikipedia that explain everything in an overly nerdy way with geeky phrases; everything I've written is based on my personal experience. (and suffering)
