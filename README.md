@@ -6,7 +6,7 @@
 
 ---
 
-## Дистрибутивы в фокусе:
+## Дистрибутивы которые тут присутствуют:
 
 ### [Arch Linux]
 Один из моих самых любимых дистрибутивов линуха, имеет поддержку огромного репозитория AUR.
@@ -29,6 +29,52 @@
 
 ---
 ## Моё железо:
+CPU: Intel Core i3-10100F (4C/8T @ 4.30 GHz)
+
+GPU: NVIDIA GeForce GTX 1050 Ti (4GB GDDR5 / Low Profile)
+
+MB: ASUS PRIME H510M-K
+
+RAM: 16 GB DDR4 (2 x 8 GB)
+
+---
+
+## Linux Notes by nvham
+
+I can call this my personal "pseudo-diary" in which I talk about how I installed and configured Linux distros and how you can do it too. There won't be any manuals from Wikipedia that explain everything in an overly nerdy way with geeky phrases; everything I've written is based on my personal experience. (and suffering)
+
+    [!NOTE]
+    This repository is completely open: you can use any configs and guides for your own systems.
+
+## Distros that are being here:
+
+### [Arch Linux]
+
+One of my most favorite Linux distributions, it has support for the huge AUR repository.
+
+### [Gentoo Linux]
+
+A system that I cursed during the first installation and prayed to all the gods to help me, but I still love it for the total control.
+
+    (p.s. the long compilations of our "cow" still piss me off sometimes)
+
+### [Void Linux]
+
+Very similar to Arch, but much snappier, has its own XBPS package manager, and doesn't use SOYstemd.
+
+### [Artix Linux]
+
+Same story as Arch but without systemd.
+
+
+In plans:
+
+    [ ] guide on configuring the great Hyprland.
+
+    [ ] add a section for NixOS.
+
+My hardware:
+
 CPU: Intel Core i3-10100F (4C/8T @ 4.30 GHz)
 
 GPU: NVIDIA GeForce GTX 1050 Ti (4GB GDDR5 / Low Profile)
