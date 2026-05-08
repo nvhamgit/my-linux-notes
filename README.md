@@ -69,9 +69,9 @@ Same story as Arch but without systemd.
 
 In plans:
 
--[ ] guide on configuring the great Hyprland.
+- [ ] guide on configuring the great Hyprland.
 
--[ ] add a section for NixOS.
+- [ ] add a section for NixOS.
 
 My hardware:
 
