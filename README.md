@@ -43,8 +43,8 @@ RAM: 16 GB DDR4 (2 x 8 GB)
 
 I can call this my personal "pseudo-diary" in which I talk about how I installed and configured Linux distros and how you can do it too. There won't be any manuals from Wikipedia that explain everything in an overly nerdy way with geeky phrases; everything I've written is based on my personal experience. (and suffering)
 
-    [!NOTE]
-    This repository is completely open: you can use any configs and guides for your own systems.
+>[!NOTE]
+>This repository is completely open: you can use any configs and guides for your own systems.
 
 ## Distros that are being here:
 
