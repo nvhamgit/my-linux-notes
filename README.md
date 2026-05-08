@@ -60,7 +60,7 @@ One of my most favorite Linux distributions, it has support for the huge AUR rep
 
 A system that I cursed during the first installation and prayed to all the gods to help me, but I still love it for the total control.
 
-    (p.s. the long compilations of our "cow" still piss me off sometimes)
+* (p.s. the long compilations of our "cow" still piss me off sometimes)
 
 ### [Void Linux]
 
